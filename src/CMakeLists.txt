@@ -1,0 +1,7 @@
+set(UI_SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/plasma.cpp
+    PARENT_SCOPE
+)
+
+set(UI_HEADERS "" PARENT_SCOPE)
